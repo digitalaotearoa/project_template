@@ -10,3 +10,5 @@ To use this template:
 4. Follow the instructions to make a copy of the template in your GitHub account, give it a descriptive name and make it public, not private
 5. Turn on GitHub pages for your new copy of the repo Settings -> Pages, set it to the main branch, within your newly created repository
 6. Your website will be live at https://<user/orgname>.github.io/reponame]]
+7. Start editing the settings in `_config.yml` to suit your projects needs, and edit content in `.md` files. 
+

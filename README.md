@@ -2,6 +2,8 @@
 
 This project template can be used to create a project website for a project at Digital Aotearoa. 
 
+It is built using a slightly modified "Beautiful Jekyll" theme.
+
 To use this template:
 
 1. [Sign up for a GitHub Account](https://github.com/)

@@ -1,4 +1,4 @@
-# Digital Aotearo Project Template
+# Digital Aotearoa Project Template
 
 This project template can be used to create a project website for a project at Digital Aotearoa. 
 
